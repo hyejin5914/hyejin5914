@@ -9,9 +9,7 @@
 <div align="center">  
 <br>
 <!-- My CV/resume -->
-<details>
 
-</details>
 <br><br>
 <div align="center">
 <!-- My profile -->
